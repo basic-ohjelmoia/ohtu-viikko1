@@ -1,5 +1,1 @@
-# ohtu-viikko1
-
-jännittävä read me tiedosto
-
-MUUTOS MUUTOS
+[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
